@@ -1,0 +1,45 @@
+- Do weekly review @parallel(false) @autodone(true) @estimate(2h) @context(Computer) @defer(2016-10-16 19:00) @repeat-method(start-after-completion) @repeat-rule(FREQ=WEEKLY)
+	http://gettingthingsdone.com/2015/07/podcast-07-guided-gtd-weekly-review/
+	
+	Feel free to break the weekly review into different parts and do “Get clear” at one time and come back at another time to do “Get current”.
+
+	- Get clear @parallel(false) @autodone(true) @context(Computer)
+		- Collect loose papers and materials @parallel(true) @autodone(false) @estimate(2m) @context(Computer)
+			Gather all accumulated business cards, receipts, and miscellaneous paper-based materials into your in-tray.
+
+		- Empty your head @parallel(true) @autodone(false) @estimate(5m) @context(Computer)
+			Put in writing and process any uncaptured new projects, action items, waiting for’s, someday maybe’s, etc.
+
+		- Get “IN” to zero @parallel(true) @autodone(false) @estimate(6m) @context(Computer)
+			Process completely all outstanding paper materials, journal and meeting notes, voicemails, dictation, and emails. If you are unable to complete this in time alloted schedule time on the calendar to finish later in the week.
+			
+			omnifocus:///inbox
+
+	- Get current @parallel(false) @autodone(true) @context(Computer)
+		- Review action lists @parallel(true) @autodone(false) @estimate(5m) @context(Computer)
+			Mark off completed actions. Review for reminders of further action steps to record.
+
+		- Review previous calendar data @parallel(true) @autodone(false) @estimate(2m) @context(Computer)
+			Review past calendar in detail for remaining action items, reference data, etc., and transfer into the active system.
+
+		- Review upcoming calendar @parallel(true) @autodone(false) @estimate(2m) @context(Computer)
+			Review upcoming calendar events — long and short term. Capture actions triggered.
+
+		- Review “Waiting for” list @parallel(true) @autodone(false) @estimate(2m) @context(Computer)
+			Record appropriate actions for any needed follow-up. Check off received ones.
+			
+			omnifocus:///perspective/Waiting%20for
+
+		- Review project (and larger outcome) lists @parallel(true) @autodone(false) @estimate(6m) @context(Computer)
+			Evaluate status of projects, goals, and outcomes, one by one, ensuring at least one current action item on each. Browse through project plans, support material, and any other work-in-progress material to trigger new actions, completions, waiting for’s, etc.
+
+		- Review any relevant checklists @parallel(true) @autodone(false) @context(Computer)
+			Use as a trigger for any new actions.
+
+	- Get creative @parallel(false) @autodone(true) @context(Computer)
+		- Review “Someday, Maybe” list @parallel(true) @autodone(false) @context(Computer)
+			Review for any projects which may now have become active, and transfer to “Projects.” Delete items no longer of interest.
+
+		- Be creative and courageous @parallel(true) @autodone(false) @context(Computer)
+			Any new, wonderful, hare-brained, creative, thought-provoking, risk-taking ideas to add into your system?
+
