@@ -1,4 +1,4 @@
-«AppNo» Determination @context(To Work) @defer(«dueDate» -13w) @due(«dueDate») @autdone(true)
+«AppNo» Determination @context(To Work) @due(«dueDate») @defer(«dueDate» -13w) @autdone(true)
 - Application received in area office? @context(To Work) @defer($dueDate -13w) @due($dueDate)
 - MOD? @context(To Work) @defer($dueDate -13w) @due($dueDate)
 - Further info requested? @context(To Work) @defer($dueDate -13w) @due($dueDate)
