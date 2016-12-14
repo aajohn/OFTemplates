@@ -1,0 +1,29 @@
+To Install and Setup Trakt for Kodi:
+  - Open Kodi
+  - Select SYSTEM
+  - Select Add-Ons
+  - Select Install from repository or Get Add-Ons on Helix
+  - Select Kodi Add-on repository
+  - Select Program Add-OnsSelect Trakt
+  - Select Install
+Wait for Add-on enabled notification
+A popup will now appear asking you to go to https://trakt.tv/activate
+Open that address in your web browser
+Enter the PIN that was given to you in the popup in Kodi & select Continue
+Select Yes when asked if you want to allow Trakt for Kodi to use your account
+You will now see a message saying 'Your device is now connected and will automatically refresh in a few seconds'
+Go back to Kodi and the Popup will no longer be displayed
+Go back to Kodi and highlight Trakt - DO NOT SELECT IT
+Open the Context Menu (C on your keyboard, right click with a mouse, long press on touch screen devices or Menu button on your remote) and select Configure
+In Exclusions enable Exclude Live TV
+In Scrobbling enable the 4 available choices
+In Synchronize selct Service section and enable everything in there
+In the Movies section enable all 5 settings
+If you don't want movies removing from your Trakt collection when deleted from your library then do not enable that setting
+In the TV Episodes section enable all 5 settings
+If you don't want episodes removing from your Trakt collection when deleted from your library then do not enable that setting
+Select Rating and choose the settings you want as this is down to personal preference but I normally enable them all
+Select OK when completed to save your settings
+With these settings Trakt will run when you boot your Kodi device to make sure your library is synced
+It will also run when you update your library
+Each time you watch content it will scrobble to your Trakt account so each device that you use Trakt on will be synced with each other.Setup Trakt for ExodusOpen ExodusSelect ToolsSelect SETTINGS: AccountsSelect Trakt > Authorization...You will get a popup asking you to visit a Trakt URL and input a PINEnter the PIN and authorise TraktExodus will now use Trakt in the My Movies/My TV Shows section
