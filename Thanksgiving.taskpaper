@@ -1,4 +1,4 @@
-- Install trakt @parallel(false) @autodone(true) @defer(2016-11-11 22:00)
+- Install trakt @parallel(false) @autodone(true)
   - Open Kodi
   - Select SYSTEM
   - Select Add-Ons
