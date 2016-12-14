@@ -1,7 +1,0 @@
-Setup Trakt for Exodus:
-  - Open Exodus
-  - Select Tools
-  - Select SETTINGS
-  - Accounts
-  - Select Trakt > Authorization
-      You will get a popup asking you to visit a Trakt URL and input a PINEnter the PIN and authorise TraktExodus will now use Trakt in the My Movies/My TV Shows section
