@@ -1,4 +1,4 @@
-- Install trakt for kodi @parallel(false) @autodone(true)
+<Device> Install trakt for kodi @parallel(false) @autodone(true)
   - Open Kodi
   - Select SYSTEM
   - Select Add-Ons
