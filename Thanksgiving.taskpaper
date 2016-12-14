@@ -1,7 +1,4 @@
-- Celebrate Thanksgiving «Year» @parallel(true) @autodone(false) @defer(2016-11-11 22:00)
-	- Send Tammy shopping list for Wassail Tea @parallel(true) @autodone(false) @context(Email)
-	- Make Wassail Tea @parallel(true) @autodone(false) @context(Home)
-	To Install and Setup Trakt for Kodi @due(<<Due Date>>) @parallel(false)
+- Install trakt @parallel(false) @autodone(true) @defer(2016-11-11 22:00)
   - Open Kodi
   - Select SYSTEM
   - Select Add-Ons
